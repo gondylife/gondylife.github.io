@@ -3,4 +3,8 @@ pygments: true
 markdown: kramdown
 url: http://gondylife.github.io
 title: Godswill Okwara Blog
-paginate: 10
+email: gondy4life@gmail.com
+author: gondylife
+description: Wanna Learn? Then you at the right place. I tell you how i run my day and you learn from it.
+paginate: 3
+google_analytics: 
