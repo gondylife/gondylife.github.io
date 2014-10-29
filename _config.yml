@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gondylife.github.io
+title: Godswill Okwara Blog
+tagline: What I Learn, I Share
+description: Wanna Learn? Then you at the right place. I tell you how i run my day and you learn from it.
+paginate: 5
