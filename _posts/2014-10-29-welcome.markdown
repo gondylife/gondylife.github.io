@@ -1,0 +1,6 @@
+---
+published: true
+title: Welcome
+layout: post
+---
+Hello, World!
